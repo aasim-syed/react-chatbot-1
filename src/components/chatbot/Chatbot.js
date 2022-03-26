@@ -6,11 +6,11 @@ import Link from './Link'
 import '../../App.css'
 const theme = {
   background: '#f5f8fb',
-  fontFamily: 'Helvetica Neue',
-  headerBgColor: '#0f4d4a',
-  headerFontColor: '#fff',
+  fontFamily: 'arial, sans-serif',
+  headerBgColor: '#0f4d',
+  headerFontColor: '#000',
   headerFontSize: '15px',
-  botBubbleColor: '#0f4d4a',
+  botBubbleColor: '#0f7d4a',
   botFontColor: '#fff',
   userBubbleColor: '#fff',
   userFontColor: '#4a4a4a',
@@ -19,10 +19,10 @@ const theme = {
 // all available config props
 const config = {
   width: '300px',
-  height: '400px',
+  height: '500px',
   hideUserAvatar: true,
   placeholder: 'Type your response.',
-  headerTitle: 'ChatBot',
+  headerTitle: 'FLOOD-INFO-BOT⚡🚀',
 }
 
 const Chatbot = (props) => {
@@ -68,34 +68,34 @@ const Chatbot = (props) => {
             {
               id: 'rmcbot',
               message:
-                'Hi,{previousValue} I am RMC Bot! What can I do for you?',
+                'Hi,{previousValue} I am G2C2🚀⚡ Bot! What can I do for you?',
               trigger: 'qtype',
             },
             {
               id: 'qtype',
               options: [
-                { value: 1, label: 'Property Tax ?', trigger: '4' },
-                { value: 2, label: ' Professional Tax ?', trigger: '3' },
-                { value: 3, label: 'Election Department', trigger: '5' },
+                { value: 1, label: 'Need help?', trigger: '4' },
+                { value: 2, label: 'Report flood data ?', trigger: '3' },
+                { value: 3, label: ' Gather flood data', trigger: '5' },
                 { value: 4, label: 'More Information', trigger: '6' },
               ],
             },
             {
               id: '3',
               message:
-                'Profession tax is the tax levied and collected by the state governments in India.',
+                '<a href>All the help need will be assisted by the state governments in India.</a>',
               trigger: 'qtype',
             },
             {
               id: '4',
               message:
-                'A property tax or millage rate is an ad valorem tax on the value of a property.',
+                'The data will be available in official website 🌦️ and sent once registered',
               trigger: 'qtype',
             },
             {
               id: '5',
               message:
-                'An election is a way people can choose their candidate or their preferences in a representative democracy or other form of government',
+                'The data will be available in official website 🌦️ and sent once registered',
               trigger: 'qtype',
             },
             {
@@ -118,9 +118,9 @@ const Chatbot = (props) => {
             {
               id: 'no-submit',
               options: [
-                { value: 1, label: 'Property Tax ?', trigger: '4' },
-                { value: 2, label: ' Professional Tax ?', trigger: '3' },
-                { value: 3, label: 'Election Department', trigger: '5' },
+                { value: 1, label: 'Need help?', trigger: '4' },
+                { value: 2, label: 'Report flood data ?', trigger: '3' },
+                { value: 3, label: ' Gather flood data', trigger: '5' },
                 { value: 4, label: 'More Information', trigger: '6' },
               ],
             },

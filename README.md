@@ -1,7 +1,7 @@
 # React Chat-Bot using simple-react-chatbot
 ---
 
-[Live Demo](https://akash52.github.io/react-chatbot)
+
 
 ##  About <a name = "about"></a>
 
@@ -15,7 +15,7 @@ Project Purpose was people can efficiently solve his/her queries using chatbot
 
 ### Installing your local machine
 
- - git clone https://github.com/Akash52/react-chatbot
+ - git clone 
  - cd react-chatbot
  - npm install (these command install relevant dependencies)
  - npm start 

@@ -17,7 +17,7 @@
   right: 40px;
   margin-bottom: 30px;
   float: right;
-  background-color: #1e524c;
+  background-image: linear-gradient(to left bottom, #f2e5ec, #d2cad1, #b4afb7, #96959c, #7b7c81, #686a6e, #56585c, #44474a, #36393b, #282b2c, #1c1e1e, #0f1010);
   color: #fff;
   border-radius: 50px;
   text-align: center;

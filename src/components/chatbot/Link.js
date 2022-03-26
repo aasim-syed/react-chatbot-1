@@ -18,10 +18,10 @@ const Link = () => {
             <td>
               <a
                 style={{ textDecoration: 'none' }}
-                href="http://www.rmc.gov.in/rmcwebsite/tax_bill_receipt_new.aspx"
+                href=""
                 target="_blank"
               >
-                Property Tax Bills/Receipt
+                SOS🚀⚡
               </a>
             </td>
           </tr>
@@ -30,7 +30,7 @@ const Link = () => {
             <td>
               <a
                 style={{ textDecoration: 'none' }}
-                href="http://www.rmc.gov.in/rmcwebsite/birth_death_certificate.aspx"
+                href=""
                 target="_blank"
               >
                 Birth & Death
