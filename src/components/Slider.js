@@ -7,30 +7,30 @@ export default function Slider() {
     <Carousel pause="hover" className="bg-dark">
       <Carousel.Item>
         <img
-          src="https://github.com/Akash52/react-chatbot/blob/master/public/images/first.jpg?raw=true"
+          src="http://floodsmartcanada.ca/wp-content/uploads/2019/11/FloodSmart-Infographic_final-copy.jpg"
           fluid
         />
         <Carousel.Caption className="carousel-caption">
           <h2>⚡🚀G2C2 CHATBOT🚀⚡</h2>
-          <h2>⚡🚀LIGHTNING FAST ANSWERS AND UPDATES🔔</h2>
+         
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
         <img
-          src="https://github.com/Akash52/react-chatbot/blob/master/public/images/second.jpg?raw=true"
+          src="http://www.johnstonnc.com/emerserv/em/emfiles/preparednessinfo/Flooding/Hazardous-Materials-Flooding-ENGLISH.png"
           fluid
         />
         <Carousel.Caption className="carousel-caption">
-          <h2>Lets Explore chatbot</h2>
+        <h2>⚡🚀Tips for when you are in flood</h2>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
         <img
-          src="https://raw.githubusercontent.com/Akash52/react-chatbot/master/public/images/third.jpg"
+          src="https://www.cdc.gov/cpr/infographics/00_images/infographics-br-floods.jpg"
           fluid
         />
         <Carousel.Caption className="carousel-caption">
-          <h2>Have Great Day !</h2>
+          <h2>STAY SAFE 💖 !</h2>
         </Carousel.Caption>
       </Carousel.Item>
     </Carousel>

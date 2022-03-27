@@ -33,7 +33,7 @@ const Link = () => {
                 href=""
                 target="_blank"
               >
-                Birth & Death
+               Maps🗺️📌
               </a>
             </td>
           </tr>
@@ -42,10 +42,10 @@ const Link = () => {
             <td>
               <a
                 style={{ textDecoration: 'none' }}
-                href="http://www.rmc.gov.in/rmcwebsite/tax_new.aspx"
+                href=""
                 target="_blank"
               >
-                Property Tax
+               Real time UPDATES🔔
               </a>
             </td>
           </tr>
@@ -54,10 +54,10 @@ const Link = () => {
             <td>
               <a
                 style={{ textDecoration: 'none' }}
-                href="http://www.rmc.gov.in/rmcwebsite/frm_sports_member_master.aspx"
+                href=""
                 target="_blank"
               >
-                Sports Registration
+                Update details
               </a>
             </td>
           </tr>
@@ -66,10 +66,10 @@ const Link = () => {
             <td>
               <a
                 style={{ textDecoration: 'none' }}
-                href="http://www.rmc.gov.in/rmcwebsite/onlineservice.aspx"
+                href=""
                 target="_blank"
               >
-                Online Services
+               Enter flood details
               </a>
             </td>
           </tr>

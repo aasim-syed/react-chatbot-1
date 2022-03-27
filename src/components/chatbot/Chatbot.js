@@ -83,7 +83,7 @@ const Chatbot = (props) => {
             {
               id: '3',
               message:
-                '<a href>All the help need will be assisted by the state governments in India.</a>',
+                'All the help need will be assisted by the state governments in India.',
               trigger: 'qtype',
             },
             {

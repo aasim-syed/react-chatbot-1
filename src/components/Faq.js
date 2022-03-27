@@ -67,17 +67,14 @@ const data = {
       `,
     },
     {
-      title: 'What is the method of payment?',
-      content: `Payment can be made at any City Civic
-      Center by cash or a cheque/Demand Draft in
-      Favor of "Municipal CommissionerAhmedabad" payable at Ahmedabad or
-      ONLINE Payment.`,
+      title: 'What is the method of entering details?',
+      content: `Select the form to enter details and update details, We will verify it🚀.`,
     },
   ],
 }
 
 const styles = {
-  bgColor: '#303030',
+  bgColor: '#000',
   titleTextColor: 'white',
   rowTitleColor: 'white',
   rowContentColor: 'white',

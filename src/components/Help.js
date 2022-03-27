@@ -9,21 +9,11 @@ const Help = () => {
        
       </span>
       <div className="mt-5">
-        <h3>Help</h3>
-        <ul>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
-        </ul>
+        <h2>Two-way mobile communication (G2C and C2G) for dissemination of flood forecasts to end users and collection of real time data of inundation area through crowdsourcing</h2>
+        
       </div>
       <div className="mt-5">
-        <h3>Contact</h3>
-        <p> Fax: +91-281-2224258</p>
+        
         <p>
           {' '}
           E-Mail:<a href="mailto:"> </a>{' '}
