@@ -10,8 +10,8 @@ const theme = {
   headerBgColor: '#0f4d',
   headerFontColor: '#000',
   headerFontSize: '15px',
-  botBubbleColor: '#0f7d4a',
-  botFontColor: '#fff',
+  botBubbleColor: '#0f7d',
+  botFontColor: '#000',
   userBubbleColor: '#fff',
   userFontColor: '#4a4a4a',
 }
@@ -82,8 +82,7 @@ const Chatbot = (props) => {
             },
             {
               id: '3',
-              message:
-                'All the help need will be assisted by the state governments in India.',
+              message:'visit https://g-2-c-2.vercel.app/',
               trigger: 'qtype',
             },
             {
