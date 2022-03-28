@@ -7,7 +7,7 @@ export default function Slider() {
     <Carousel pause="hover" className="bg-dark">
       <Carousel.Item>
         <img
-          src="http://floodsmartcanada.ca/wp-content/uploads/2019/11/FloodSmart-Infographic_final-copy.jpg"
+          src="http://www.johnstonnc.com/emerserv/em/emfiles/preparednessinfo/Flooding/Hazardous-Materials-Flooding-ENGLISH.png"
           fluid
         />
         <Carousel.Caption className="carousel-caption">

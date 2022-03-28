@@ -19,7 +19,7 @@ const Header = () => {
               <Nav className="ml-auto">
                 <LinkContainer to="/faq">
                   <Nav.Link>
-                    <i className="fas fa-question-circle"></i> FAQ
+                    {/* <i className="fas fa-question-circle"></i> FAQ */}
                   </Nav.Link>
                 </LinkContainer>
                 <LinkContainer to="/help">
