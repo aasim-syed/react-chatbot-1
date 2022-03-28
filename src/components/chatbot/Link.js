@@ -18,10 +18,10 @@ const Link = () => {
             <td>
               <a
                 style={{ textDecoration: 'none' }}
-                href=""
+                href="https://indianhelpline.com/Floods-Disaster-Helpline/"
                 target="_blank"
               >
-                SOS🚀⚡
+                indianhelpline.com🚀⚡
               </a>
             </td>
           </tr>
@@ -30,10 +30,10 @@ const Link = () => {
             <td>
               <a
                 style={{ textDecoration: 'none' }}
-                href=""
+                href="http://www.floodrelief.tn.gov.in/flood_relief.html"
                 target="_blank"
               >
-               Maps🗺️📌
+               floodrelief.tn.gov.in🗺️📌
               </a>
             </td>
           </tr>
@@ -54,7 +54,7 @@ const Link = () => {
             <td>
               <a
                 style={{ textDecoration: 'none' }}
-                href=""
+                href="https://kp17mbji4lv.typeform.com/to/DzlpFhiK?typeform-source=g-2-c-2.vercel.app"
                 target="_blank"
               >
                 Update details
@@ -66,7 +66,7 @@ const Link = () => {
             <td>
               <a
                 style={{ textDecoration: 'none' }}
-                href=""
+                href="https://kp17mbji4lv.typeform.com/to/DzlpFhiK?typeform-source=g-2-c-2.vercel.app"
                 target="_blank"
               >
                Enter flood details
